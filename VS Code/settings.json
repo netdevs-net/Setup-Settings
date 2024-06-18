@@ -1,5 +1,9 @@
 {
     "terminal.integrated.fontFamily": "'FiraMono Nerd Font', monospace",
+    "terminal.integrated.fontWeight": "500",     
     "git.enableSmartCommit": true,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "editor.fontFamily": "FiraMono Nerd Font, monospace",
+    "editor.fontWeight": "400"
 }
