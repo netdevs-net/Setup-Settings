@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.fontFamily": "'FiraMono Nerd Font', monospace",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true
+}
